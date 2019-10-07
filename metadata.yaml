@@ -1,11 +1,16 @@
 _repo: The-Stars-Incline_60413
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60413-h/images/cover.jpg
 creator:
   author:
     agent_name: Judson, Jeanne
     gutenberg_agent_id: '50952'
     url: http://www.gutenberg.org/2009/agents/50952
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60413#The-Stars-Incline
 gutenberg_issued: '2019-10-03'
 gutenberg_type: Text
 identifiers:
